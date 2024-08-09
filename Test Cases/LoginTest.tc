@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginTest</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3550bbc-f77b-4e23-ab10-ee9e27833eec</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc8bc35a-06bc-4f60-9e7e-9647ae879df6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'&quot;www.saucedemo.com&quot;'</defaultValue>
+      <description></description>
+      <id>cc8bc35a-06bc-4f60-9e7e-9647ae879df6</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
